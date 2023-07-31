@@ -85,7 +85,7 @@ def NewCell(conn, addr):
     s.close()
 
 if __name__ == '__main__':
-    model=YOLO('yolov8n.pt')
+    model=YOLO('yolov8l.pt')
     print('Ready to connect')
     tracker = DeepSort(max_age=5)
     HOST='127.0.0.1'
