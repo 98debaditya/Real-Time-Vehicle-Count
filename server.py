@@ -2,7 +2,6 @@ import cv2
 import numpy as np
 from mlsocket import MLSocket
 from ultralytics import YOLO
-from tracker import*
 from deep_sort_realtime.deepsort_tracker import DeepSort
 from signal import signal, SIGPIPE, SIG_DFL  
 signal(SIGPIPE,SIG_DFL)
