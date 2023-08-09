@@ -1,0 +1,7 @@
+numpy
+ultralytics
+deep-sort-realtime
+flask
+flask_socketio
+opencv-python
+eventlet
