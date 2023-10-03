@@ -1,0 +1,10 @@
+numpy
+flask
+flask_socketio
+pandas
+ultralytics
+flask_cors
+sqlalchemy
+mysql.connector
+opencv-python
+eventlet
