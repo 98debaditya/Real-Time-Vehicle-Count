@@ -1,0 +1,8 @@
+opencv-python
+numpy
+deep-sort-realtime
+socketio
+natsort
+pandas
+mysql.connector
+sqlalchemy
